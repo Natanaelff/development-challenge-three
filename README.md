@@ -1,6 +1,6 @@
 # Development challenge
 
-Medcloud's challenge for the integration analyst and developer positions.
+Medcloud's challenge for iOS/Android developer positions.
 
 ## Problem:
 I went to the market and brought eggs, milk, flour and meat. 
