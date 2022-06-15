@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Espaguete com almôndegas",
+    "subTitle": "um delicioso Espaguete com almôndegas simples de fazer",
+    "titleMass": "ALMÔNDEGAS",
+    "mass": [
+      "500 gramas de carne moída",
+      "½ xícara de leite",
+      "½ xícara de chá de farinha",
+      "1 ovo",
+      "½ colher de sopa de sal"
+    ],
+    "titleRoof": "ESPAGUETE",
+    "roof": [
+      "450 gramas de macarrão tipo espaguete",
+      "1/2 xic. Parmesão",
+      "680 g de marinara"
+    ],
+    "preparation": [
+      "Você pode usar o molho marinara pronto ou tentar a receita de molho marinara básico em anexo.",
+      "Coloque o leite em uma tigela grande.",
+      "Adicione o sal.",
+      "Adicione a farinha.",
+      "Adicione o ovo e misture.",
+      "Adicione a carne moída.",
+      "Use uma espátula para incorporar a carne moída à mistura de ovo, leite e farinha.",
+      "Divida a mistura em pequenas bolas, aproximadamente do tamanho de uma bola de golfe. Eu gosto de usar uma colher medidora grande. Coloque colheradas cheias em um prato ou travessa.",
+      "Enrole cada porção entre as mãos para formar bolas lisas.",
+      "Aqueça um pouco de azeite em uma frigideira de ferro.",
+      "Quando o azeite estiver quente, adicione as almôndegas. Frite até que estejam marrons e crocantes no fundo.",
+      "Vire as almôndegas para cozinhar do outro lado.",
+      "Quando as almôndegas estiverem crocantes e marrons dos dois lados, acrescente o molho marinara. Deixe cozinhar.",
+      "Cozinhe o espaguete em água salgada fervente até ficar quase macio e então escorra.",
+      "Adicione o espaguete cozido ao molho marinara fervente com as almôndegas. Mexa para cobrir o macarrão com o molho. Tempere se necessário."
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "Bolo de cenoura de liquidificador",
+    "subTitle": "Bolo de cenoura é um clássico, e o melhor é que a receita é muito simples de fazer.",
+    "titleMass": "Ingredientes de massa",
+    "mass": [
+      "3 cenouras médias descascadas e picadas",
+      "1 xícara de chá de óleo",
+      "2 xícaras de chá de açúcar",
+      "4 ovos",
+      "1 pitada de sal",
+      "2 xícaras de chá de farinha de trigo",
+      "1 colher de sopa de fermento em pó químico de bolo;"
+    ],
+    "titleRoof": "Ingredientes da cobertura",
+    "roof": [
+      "6 colheres de sopa de açúcar",
+      "6 colheres de sopa de achocolatado de uma boa marca",
+      "3 colheres de sopa de manteiga",
+      "2 colheres de sopa de leite;"
+    ],
+    "preparation": [
+      "Reúna todos os ingredientes da massa",
+      "Em um liquidificador, adicione as cenouras, o óleo e bata até ficar homogêneo",
+      "Acrescente o açúcar, os ovos, o sal e bata até incorporar tudo",
+      "Transfira para um recipiente e coloque, gradualmente a farinha e vá misturando",
+      "Junte o fermento e misture, delicadamente, até incorporar",
+      "Despeje a massa em uma forma untada, enfarinhada e leve ao forno preaquecido a 180 ºC por cerca 40 minutos;"
+    ],
+    "preparation_roof": [
+      "Junte os ingredientes",
+      "Em uma panela, adicione o açúcar, o chocolate em pó, a manteiga, o leite, misture bem e deixe cozinhar até começar a desgrudar do fundo da panela",
+      "Desenforme o bolo, deixe ele esfriar e despeje a calda por cima, espalhando bem",
+      "Prontinho! Agora é só servir."
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "Bolo de chocolate com 3 ingredientes",
+    "subTitle": "Se, para você, chocolate nunca é demais, aposte nessa receita que leva bolachas Negresco ou Oreo na massa e ganache de chocolate meio amargo na cobertura.",
+    "titleMass": "Ingredientes de massa",
+    "mass": [
+      "4 pacotes de bolacha Negresco ou Oreo (560 g)",
+      "450 ml de leite",
+      "20 g de fermento;"
+    ],
+    "titleRoof": "Ingredientes da cobertura",
+    "roof": [
+      "100 g de creme de leite",
+      "50 g de chocolate meio amargo;"
+    ],
+    "preparation": [
+      "Bata as bolachas (com o recheio) no liquidificador até virar uma farofinha.",
+      "Transfira essa farofa para uma vasilha, adicione o leite e o fermento e misture.",
+      "Despeje a massa em uma forma untada (20 cm), e leve para assar em forno pré-aquecido a 200° graus por 30 minutos."
+    ],
+    "preparation_roof": [
+      "Coloque o creme de leite e o chocolate em uma panela, leve-a ao fogo baixo e misture até atingir um ponto homogêneo.",
+      "Faça furinhos no bolo com uma faca e despeje a mistura da panela sobre o bolo ainda quente."
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "Bolo de fubá com coco simples",
+    "subTitle": "Para os fãs de massa branca, a dica é testar esse bolo de fubá incrementado com leite de coco e coco ralado",
+    "titleMass": "Ingredientes de massa",
+    "mass": [
+      "4 ovos grandes",
+      "1 xícara de chá de açúcar",
+      "1 xícara de chá de margarina ou manteiga",
+      "2 xícaras de chá de fubá",
+      "1 xícara de chá de farinha de trigo",
+      "3/4 de xícara de chá de leite de coco",
+      "1/2 xícara de chá de coco ralado",
+      "1 colher de chá de fermento em pó"
+    ],
+    "preparation": [
+      "Reúna todos os ingredientes",
+      "Em um recipiente, adicione os ovos, o açúcar e misture",
+      "Acrescente a manteiga e misture bem",
+      "Coloque o fubá e misture até dissolver tudo",
+      "Adicione a farinha, o leite de coco, o coco e misture bem",
+      "Finalize com o fermento e misture para incorporar",
+      "Transfira para uma forma untada, enfarinhada e leve ao forno preaquecido a 180 ºC por cerca de 40 a 45 minutos",
+      "Agora é só servir. Bom apetite"
+    ]
+  }
+]

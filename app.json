@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "easy-recipe",
+    "slug": "easy-recipe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
